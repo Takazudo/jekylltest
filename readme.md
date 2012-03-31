@@ -5,7 +5,7 @@ a very simple example of [jekyll](https://github.com/mojombo/jekyll)
 * [demo](http://takazudo.github.com/jekylltest/)
 
 
-##how to use this
+##how to try this
 
 First, install [jekyll](https://github.com/mojombo/jekyll).
 
