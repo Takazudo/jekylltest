@@ -47,3 +47,6 @@ permalink: /:month-:day-:year/:title.html
 
 # all variables can be refered in templates
 author : Takazudo
+
+# ignore these
+exclude: [".gitignore", "readme.md"]

@@ -1,7 +1,8 @@
 <div class="sidenav">
+	<div class="h">pages</div>
 	<a href="{{ site.baseurl }}/index.html">index.html</a>
 	<a href="{{ site.baseurl }}/foo.html">foo.html</a>
-	<div>posts</div>
+	<div class="h">posts</div>
 	{% for post in site.posts %}
 		<a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
 	{% endfor %}
