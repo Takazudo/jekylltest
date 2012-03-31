@@ -7,21 +7,23 @@ a very simple example of [jekyll](https://github.com/mojombo/jekyll)
 
 ##how to use this
 
+First, install [jekyll](https://github.com/mojombo/jekyll).
+
 ```bash
 $ jekyll
 ```
 
-publishes everything from source
+publishes everything from source.
 
 ```bash
 $ jekyll --server
 ```
 
-then open http://localhost:4000 for debug
+then open http://localhost:4000 for debug.
 
 ##resources
 
-* [mojombo/jekyll](https://github.com/mojombo/jekyll)
+* [GitHub - mojombo/jekyll](https://github.com/mojombo/jekyll)
 * [Blogging with Jekyll Tutorial | Jekyll-Bootstrap](http://jekyllbootstrap.com/)
 
 
