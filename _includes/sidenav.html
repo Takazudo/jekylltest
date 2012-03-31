@@ -1,8 +1,8 @@
 <div class="sidenav">
-	<a href="/jekylltest/index.html">index.html</a>
-	<a href="/jekylltest/foo.html">foo.html</a>
+	<a href="{{ site.baseurl }}/index.html">index.html</a>
+	<a href="{{ site.baseurl }}/foo.html">foo.html</a>
 	<div>posts</div>
 	{% for post in site.posts %}
-		<a href="{{ post.url }}">{{ post.title }}</a>
+		<a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
 	{% endfor %}
 </div>
