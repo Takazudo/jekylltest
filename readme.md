@@ -2,10 +2,7 @@
 
 a very simple example of [jekyll](https://github.com/mojombo/jekyll)
 
-* [demo](http://takazudo.github.com/jekylltest/)
-
-
-##how to try this
+##How to try this
 
 First, install [jekyll](https://github.com/mojombo/jekyll).
 
@@ -21,7 +18,12 @@ $ jekyll --server
 
 then open http://localhost:4000 for debug.
 
-##resources
+##Let me show published pages online
+
+* [demo](http://takazudo.github.com/jekylltest/)
+
+
+##Resources
 
 * [GitHub - mojombo/jekyll](https://github.com/mojombo/jekyll)
 * [Blogging with Jekyll Tutorial | Jekyll-Bootstrap](http://jekyllbootstrap.com/)
