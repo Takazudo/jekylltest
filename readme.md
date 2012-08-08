@@ -16,7 +16,13 @@ publishes everything from source.
 $ jekyll --server
 ```
 
-then open http://localhost:4000 for debug.
+then open http://localhost:4000/jekylltest/ for debug.
+
+```bash
+$ jekyll --auto
+```
+
+will watch your files
 
 ##Let me show published pages online
 
